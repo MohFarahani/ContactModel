@@ -1,5 +1,5 @@
-# Contact Model
-Luding contact model for LIGGGHTS.
+# Luding contact model for LIGGGHTS
+
 
 Here is the implementation of normal force for Luding contact model in [LIGGGHTS](https://www.cfdem.com/liggghts-open-source-discrete-element-method-particle-simulation-code).
 
